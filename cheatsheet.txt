@@ -1,0 +1,11 @@
+-ls :list content in home
+-cd :chang directory 
+-gedit filename & :open in gedit
+-git add filename :adds file 
+-git commit -m "Commit message" :saves it in the computer
+-git push :sends it to github
+-cd .. :goes to /home $
+-press tab :completes the word
+-clear :clears the terminal
+-clone :clones your repository
+ 
