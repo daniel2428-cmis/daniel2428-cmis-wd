@@ -1,0 +1,12 @@
+1) Turn on the computer
+2) Type in the password and wait for the computer to start.
+3) Click on the small square at the bottom of the screen that is black with a white border and some white lines inside the black space. 
+4) Copy git clone --config="http.proxy=http://daniel2428:lockerschool315@192.168.2.1:8080" https://github.com/daniel2428-cmis/daniel2428-cmis-wd.git and paste it in termial by pressing shift and insert. Press Enter
+5)Type ls and press enter
+6)Type in cd, press the space bar, and type in the name of your repository folder. Press Enter.
+7)Type gedit and the name of the folder name and put a & sign at the end. Pres Enter
+8)When a white page comes out, write what you wish you write. Then Save and close.
+9) Type git add and your filename.
+10) Type git commit -m "In this spae write what you did in your new folder." Don't forget to put the quotation sign. Press Enter.
+11) Type git push and press enter. 
+12) Type in your username and password for your github account. Press Enter
