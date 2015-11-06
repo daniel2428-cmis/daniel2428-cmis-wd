@@ -8,4 +8,11 @@
 -press tab :completes the word
 -clear :clears the terminal
 -clone :clones your repository
- 
+-cat : view the contents of a file
+-python -m SimpleHTTPServer :Start the development server
+-sftp daniel2428@cmis-hsteacher, Log In
+- put ! to execute it in local
+- put filename -upload file
+- get filename -upload a file
+-* All
+-exit -to get out of sftp. 
