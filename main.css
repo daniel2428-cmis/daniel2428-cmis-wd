@@ -1,11 +1,20 @@
 header {
-	background-color:#E0E0E0;
-        border-style: inset;
+        border-style: dashed;
+  	text-align: center; 
+        border-width: 10px;
 }
 h1 {
     background-color:#00ff00;
     border-style: dotted;
     font-family: Comic Sans MS;
+    color: red;
+    border-color: orange; 
+    text-align: left;
+    
+  
+}
+h3 {
+    background-color: blue;
 }
 nav {
     background-color: blue;
@@ -21,11 +30,15 @@ h2 {
 }
 p {
    background-color:yellow;
-    border-top: solid;
-    border-left: dashed; 
-    border-right: ridge;
-    border-bottom: double;
-    font-family: Courier New;
+    border-top-style: solid;
+    border-left-style: dashed; 
+    border-left-width: 15px;
+    border-left-color: green;
+    border-bottom-color: blue;
+    border-bottom-width: 20px;
+    border-right-style: ridge;
+    border-bottom-style: double;
+    font-family: Impact;
     font-size: 24px;
 }
 footer {
@@ -33,6 +46,23 @@ footer {
         border-style: groove;
 }
 html {
-	background-color:#ffccdd;
-	border-style:solid;
+	background-image: url(https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRpRMyWBoD3_6lCm5rJK8L0VNNeSufFxzNeCjRWQ0FAHue0X8Vn);
+	border-style:ridge; 
 }
+/*Requirements
+
+*Create a new file called "main.css"
+*Add a link element to the head of your index.html file
+<link rel="stylesheet" href="main.css" type="text/css">
+*Edit the main.css file
+*add a declaration for each element in the body of your index.html file.
+*add properties to style the background color of each element.
+*add properties to style the border of each element.
+*add properties to style the font of each element.
+*View your index.html in the development server.
+*Validate your index.html file.
+*Validate your main.css file.
+*Copy this list of requirements and paste it into your "main.css" file as a css comment. Put an asterisk in front of each one that you did.
+*Upload to the production server with sftp.
+*View your index.html in the production server. */ 
+
