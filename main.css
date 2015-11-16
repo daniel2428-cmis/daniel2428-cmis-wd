@@ -1,54 +1,62 @@
 header {
-        border-style: dashed;
-  	text-align: center; 
-        border-width: 10px;
+        border-style: hidden; 
 }
 h1 {
-    background-color:#00ff00;
-    border-style: dotted;
-    font-family: Comic Sans MS;
-    color: red;
-    border-color: orange; 
-    text-align: left;
-    
-  
-}
-h3 {
-    background-color: blue;
-}
-nav {
-    background-color: blue;
-    border-style: hidden; 
-}
-main {
+    background-color: green;
+    color: yellow;
+    font-family: Impact, Charcoal, sans-serif; 
+    font-style: italic; 
 }
 h2 {
-   background-color: maroon;
-   border-style: outset;
-   font-family: Arial Black;
-   font-size: 40px
+    background-color: yellow;
+    color: red; 
+    font-size: 12px; 
 }
-p {
-   background-color:yellow;
-    border-top-style: solid;
-    border-left-style: dashed; 
-    border-left-width: 15px;
-    border-left-color: green;
-    border-bottom-color: blue;
-    border-bottom-width: 20px;
-    border-right-style: ridge;
-    border-bottom-style: double;
-    font-family: Impact;
-    font-size: 24px;
+h3 {
+    background-color: blue; 
+    color: yellow;
+    font-size: 25px; 
+    font-family: "Arial Black", Gadget, sans-serif; 
 }
-footer {
-	background-color: red;
-        border-style: groove;
+h4 {
+   background-color: orange; 
+   color: blue; 
+    font-family: "Arial Black", Gadget, sans-serif; 
+    font-size: 15px; 
 }
-html {
-	background-image: url(https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRpRMyWBoD3_6lCm5rJK8L0VNNeSufFxzNeCjRWQ0FAHue0X8Vn);
-	border-style:ridge; 
+h5 {
+    background-color: orange; 
+   color: blue; 
+    font-family: "Arial Black", Gadget, sans-serif; 
+    font-size: 15px; 
 }
+h6{
+   background-color: orange; 
+   color: blue; 
+    font-family: "Arial Black", Gadget, sans-serif; 
+    font-size: 15px;
+}
+p { 
+   color: purple; 
+
+}
+main {
+      border-style: dashed;
+      border-color: red; 
+      border-width: 8px; 
+      
+}        
+footer{
+background-color: orange;
+border-style: solid;
+border-left-color: yellow;
+border-bottom-color: blue;
+border-top-color: transparent;
+border-right-color: transparent; 
+border-left-width:7px;
+border-bottom-width: 7px; 
+}
+
 /*Requirements
 
 *Create a new file called "main.css"
