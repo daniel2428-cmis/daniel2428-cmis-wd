@@ -1,0 +1,77 @@
+ h1{
+    color: yellow;
+    background-color: purple; 
+    border-style: solid;
+    border-color: yellow;
+    border-top-width: 0px;
+    border-bottom-width: 0px;
+    border-left-width: 0px;
+    border-right-width: 15px; 
+    font-style: italic;
+    font-family: Impact, Charcoal, sans-serif; 
+}
+h2{
+   color: blue;
+   border-style: dashed;
+   border-top-width: 0px;
+   border-right-width: 0px;
+   border-left-width: 0px;
+   border-bottom-width: 10px;
+   border-color: yellow; 
+   background-color:red; 
+   font-family: "Arial Black", Gadget, sans-serif; 
+   font-size: 15px;
+   font-style: italic;
+}
+header{
+       background-color:red;
+}
+h3 {
+    background-color: yellow; 
+    color: purple;
+    font-size: 25px;
+    border-color: purple;
+    border-style: dashed;
+    border-right-width: 0px;
+    border-left-width: 0px;
+    border-bottom-width: 0px;
+}
+h4{
+   color: yellow;
+   background-color: green;
+   border-style: dotted; 
+   border-color: yellow;
+   border-top-width: 0px;
+   border-right-width: 0px;
+   border-left-width: 0px;
+   font-size: 20px; 
+}
+p{
+  color: blue; 
+}
+main {
+    border-style: solid;
+    border-top-width: 0px;
+    border-bottom-width: 0px;
+    border-right-color: blue; 
+    border-left-color: red; 
+    border-right-width: 10px;
+    border-left-width: 10px;
+}
+footer{
+       color: blue; 
+       font-size: 18px; 
+       border-style: double;
+       border-top-style: dotted; 
+       border-top-color: black; 
+       border-top-width: 2px;  
+       border-bottom-width: 0px; 
+       border-right-width: 10px; 
+       border-left-width: 10px; 
+       border-left-color: orange;
+       font-size: 20px; 
+       border-right-color: orange;
+      }
+h5 {
+    font-family: "Times New Roman", Times, serif; 
+}
