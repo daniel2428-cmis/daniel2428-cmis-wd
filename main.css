@@ -16,7 +16,7 @@ h1 {
  
 }
 h3 {
-    background-color: blue;
+    background-color: maroon;
 }
 nav {
      background-color: blue;
@@ -45,7 +45,6 @@ footer {
 html {
 	background-color:#ffccdd;
 	border-style:solid;
-	background-image: url(https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRpRMyWBoD3_6lCm5rJK8L0VNNeSufFxzNeCjRWQ0FAHue0X8Vn);
 	border-style:ridge; 
 }
 h2 {
