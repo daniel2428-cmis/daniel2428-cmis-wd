@@ -19,7 +19,8 @@ h3 {
     background-color: maroon;
 }
 nav {
-     background-color: blue;
+     background-color: red;
+     border-style: solid;
 }
 p {
     background-color:yellow;
