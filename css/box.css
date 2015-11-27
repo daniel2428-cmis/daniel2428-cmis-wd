@@ -1,0 +1,21 @@
+html{
+     background-color:#FFCC99;
+     border-style: solid;
+     border-color: #FFFF99;
+}
+h1{
+     border-style: dotted;
+     border-color: #FF9999;
+     border-width:4px;
+}
+nav{
+    border-color: #FF6699;
+    border-style: solid;
+    color: red;
+}
+h2{
+   border-top-style: dotted;
+   border-bottom-style: dashed;
+   border-right-style: hidden;
+   border-left-style: double; 
+}
