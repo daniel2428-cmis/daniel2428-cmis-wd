@@ -7,6 +7,8 @@ h1{
      border-style: dotted;
      border-color: #FF9999;
      border-width:4px;
+     padding-bottom: 30px;
+     margin-top: 40px;
 }
 nav{
     border-color: #FF6699;
@@ -19,3 +21,31 @@ h2{
    border-right-style: hidden;
    border-left-style: double; 
 }
+p{
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-left: 100px;
+  margin-right: 100px;
+  border-style: solid;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  padding-right: 40px;
+  padding-left: 40px; 
+}
+article{
+	border-style: dashed;
+        border-color: red;
+        margin-top: 30px;
+}
+li{
+   color: #33CCFF;
+   margin-left: 80px;
+}
+ul li {
+     color: red;
+}
+main > h3{
+           color: green;
+}
+footer{
+        color: maroon;
