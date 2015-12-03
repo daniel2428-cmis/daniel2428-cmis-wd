@@ -20,6 +20,7 @@ h2{
    border-bottom-style: dashed;
    border-right-style: hidden;
    border-left-style: double; 
+   color: #99FFFF;
 }
 p{
   margin-top: 50px;
@@ -44,8 +45,15 @@ li{
 ul li {
      color: red;
 }
-main > h3{
+main h3{
            color: green;
 }
 footer{
         color: maroon;
+}
+main + p{
+         color: #99CC33;
+}
+header ~ h2{
+             color: #FF3366;
+}
