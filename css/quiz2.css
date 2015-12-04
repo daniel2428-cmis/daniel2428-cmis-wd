@@ -1,0 +1,40 @@
+header{
+	background-color: red;
+	padding-top: 40px;
+	padding-left: 20px;
+	padding-right: 50px;
+	padding-bottom: 100px;
+	margin-right: 
+}
+h1{
+   border-style: solid;
+   border-color: yellow;
+   border-width: 1px; 
+   margin-right: 1000px;
+}
+footer p{
+  color: white;
+  padding-top: 40px;
+  padding-left: 50px;
+  background-color: blue;
+  border-style: dashed;
+  border-color: blue;
+  border-width:5px;
+}
+nav{
+    border-style: solid;
+    margin-left: 200px;
+}
+main{
+     background-color:gray;
+}
+main h2{
+   padding-left: 200px;
+}
+main p{
+	padding-left: 200px;
+	padding-top: 10px;
+}
+header p{
+         color: white;
+}
