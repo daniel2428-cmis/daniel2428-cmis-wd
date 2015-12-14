@@ -1,0 +1,45 @@
+html{
+background-color: #B5D5B5;
+}
+header{
+border-style: solid;
+border-color: #449144;
+background-color: white;
+}
+footer{
+margin-top: 2.5cm;
+border-style: solid;
+margin-right: 32.5cm;
+padding-left: 1cm;
+background-color: #468D46;
+}
+main h3{
+border-bottom-style: solid;
+margin-right: 27.75cm;
+margin-top: 1cm;
+}
+nav{
+border-style: solid;
+margin-right: 38.5cm;
+border-color: #449144;
+background-color: white;
+margin-top: 0.1cm;
+}
+img{
+border-style: dotted;
+border-color: #67CF46;
+}
+h2{
+border-style: dashed;
+font-size: 35px;
+background-color: white;
+border-color: #3D8F3D;
+}
+article h3{
+margin-right:0cm;
+font-size: 25px;
+margin-top: 0.5cm;
+}
+main{
+margin-left: 3cm;
+}
